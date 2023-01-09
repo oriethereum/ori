@@ -1,9 +1,6 @@
 # ori
 
-[![Build Status][circleci-status-img]][circleci-status-url]
-[![Coverage Status][coverage-status-img]][coverage-status-url]
-
-**ori** is an alternative implementation of the Ethereumprotocol, written in
+**ori** is an alternative implementation of the Ethereum protocol, written in
 JavaScript and C/C++ for Node.js.
 
 ## Uses
